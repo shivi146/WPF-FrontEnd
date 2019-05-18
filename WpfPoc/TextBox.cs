@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WpfPoc
 {
-   public class TextBoxes
+   public class TextBox
     {
         public string Label { get; set; }
         public bool Enabled { get; set; }

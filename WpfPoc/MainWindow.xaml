@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
 
     <Grid  Margin="10">
-        <ListView Margin="10"   Name="icTodoList" >
+        <ListView Margin="10"   Name="formDataList" >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <WrapPanel>
