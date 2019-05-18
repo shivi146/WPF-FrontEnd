@@ -1,0 +1,17 @@
+{
+    "TextBoxes": [
+        {
+            "Label": "First name",
+            "Enabled": true
+        },
+        {
+            "Label": "Last name",
+            "Enabled": true
+        },
+      {
+        "Label": "Age",
+        "Enabled": false
+      }
+
+    ]
+}
